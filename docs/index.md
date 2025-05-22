@@ -21,6 +21,11 @@ description: 3D Printers by HyperDrive Design
 
 ![Galaxy Pulse 3D printer by HyperDrive Design](/assets/printers/galaxy-spark/...png)
 
+
+## Our partners
+
+As of present, our only partner is the [Beaverton Millstone Hobby] store, which provides us with much-needed support, an outlet to sell our products, and a way of reaching customers and events we are attending. A worthwhile partner!
+
 <!--
 
 Before running any `mkdocs xxxx` commands, install mkdocs w/ python following these steps: https://squidfunk.github.io/mkdocs-material/getting-started/#installation
@@ -44,3 +49,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 -->
+
+<!-- Reference URL's (short links) -->
+[Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com/products/
