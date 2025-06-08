@@ -1,4 +1,30 @@
-# Hyperdrive Design
+---
+title: HyperDrive Design
+description: 3D Printers by HyperDrive Design
+---
+
+# HyperDrive Design
+
+![HyperDrive Design Logo (image)](/assets/hyperdrive-design_banner.png)
+
+## Galaxy printers
+
+### Galaxy Pulse
+
+![Galaxy Pulse 3D printer by HyperDrive Design](/assets/printers/galaxy-pulse/...png)
+
+### Galaxy One
+
+![Galaxy One 3D printer by HyperDrive Design](/assets/printers/galaxy-one/...png)
+
+### Galaxy Spark
+
+![Galaxy Pulse 3D printer by HyperDrive Design](/assets/printers/galaxy-spark/...png)
+
+
+## Our partners
+
+As of present, our only partner is the [Beaverton Millstone Hobby] store, which provides us with much-needed support, an outlet to sell our products, and a way of reaching customers and events we are attending. A worthwhile partner!
 
 <!--
 
@@ -23,3 +49,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 -->
+
+<!-- Reference URL's (short links) -->
+[Beaverton Milestone Hobby]: https://beavertonmilestonehobby.com/products/
